@@ -1,0 +1,18 @@
+body {
+  width: 400px;
+  height: 500px;
+  background-color: rgb(1, 1, 53);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 20px;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 30px;
+}
